@@ -70,3 +70,21 @@ mvn spring-boot:run
 ```
 http://localhost:8080/chat
 ```
+
+--- 
+
+## 📸 Demo
+
+![Chat Demo](assets/chat-demo.gif)
+
+---
+
+## 📚 Purpose
+
+This project was built for learning and experimenting with WebSockets in Spring Boot, focusing on understanding:
+
+* Real-time communication
+
+* Publish–subscribe messaging
+
+* Client-server event-driven architecture
